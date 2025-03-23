@@ -78,5 +78,10 @@ G12         PWM Output
 Амплитудное значение: 3.3В (без усилителя)
 
 
+## Особенности
+|![20kHz20%](20hzx20p.jpg)|![20kHz50%](20hzx50p.jpg)|
+| ------------------- | ----------------------- |
+|![20kHz20%](20hzx20p-O.jpg)|![20kHz20%](20hzx50p-O.jpg)|
+
 ## [<img src="logo.png" alt="drawing" style="width:50px;"/>](https://techno-touch.by/) Лицензия MIT
 MIT License © 2023 [freeky92](https://github.com/freeky92) ООО "[TechnoTouch](https://techno-touch.by/)". Подробности в файле LICENSE.
